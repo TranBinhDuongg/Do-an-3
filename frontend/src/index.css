@@ -3,15 +3,14 @@
 }
 
 :root {
-  color-scheme: light;
+  color-scheme: dark;
 }
 
 body {
   margin: 0;
   font-family: 'Segoe UI', system-ui, sans-serif;
   -webkit-font-smoothing: antialiased;
-  background: #f1f5f9;
-  color: #0f172a;
+  background: #0f172a;
 }
 
 #root {
